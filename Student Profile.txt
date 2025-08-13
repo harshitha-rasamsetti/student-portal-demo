@@ -2,23 +2,23 @@ Student Profile:
 
 SUC ID	        : 2358250032
 
-Name		: Rasamsetti Sai Harshitha
+Name		        : Rasamsetti Sai Harshitha
 
-Gender		: Female
+Gender		      : Female
 
 Date of Birth   : 05-05-2005
 
-Email		: harshitharasamsetti@gmail.com
+Email		        : harshitharasamsetti@gmail.com
 
-Phone		: +917382474706
+Phone		        : +917382474706
 
-Address		: Divili, Peddapuram Mandal, Kakinada district, Andhra Pradesh
+Address		      : Divili, Peddapuram Mandal, Kakinada district, Andhra Pradesh
 
-Course		: BCA (Computer Science)
+Course		      : BCA (Computer Science)
 
 Year/Semester   : 3rd Year / 5th Semester
 
-Roll Number	: 50
+Roll Number	    : 50
 
 Admission Date  : 15-07-2023
 
